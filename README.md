@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with advancing my skills in AI and machine learning.
 - 💬 Ask me about Electrical Engineering, UI/UX design, and front-end development.
 - 📫 How to reach me: Connect with me on Telegram [@MyTelegramLink](https://t.me/Joel0483)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a self-taught programmer and designer who loves to challenge himself and explore new fields.
 
