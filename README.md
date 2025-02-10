@@ -5,6 +5,10 @@
 
 ![1656679844338](https://github.com/user-attachments/assets/503e5559-904d-4060-9e2a-88dcb3ece69b)
 
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0CED71&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eyuel+M.+Deribe!;" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Felega, a tourism platform, and Balesuq, an ecommerce platform.<br>🌱 I’m currently learning machine learning and data science.<br>👯 I’m looking to collaborate on innovative projects that solve societal problems.<br>🤔 I’m looking for help with advancing my skills in AI and machine learning.<br>💬 Ask me about Electrical Engineering, UI/UX design, and front-end development.<br>📫 How to reach me: Connect with me on Telegram @MyTelegramLink<br>⚡ Fun fact: I'm a self-taught programmer and designer who loves to challenge himself and explore new fields.
 
@@ -20,24 +24,20 @@
 
 <p align="start">
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyumul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyumul&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
-  ![](https://github-readme-stats.vercel.app/api?username=Eyumul&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api?username=Eyumul&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyumul&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyumul&theme=blue-green" alt="GitHub Streak" />
   
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Eyumul&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Eyumul&theme=blue-green&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blue-green)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Eyumul&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Eyumul&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Eyumul&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
