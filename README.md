@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=/Telegram&logoColor=white)](https://t.me/Joel0483) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyu_mul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eyumul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyuelmulugeta60@gmail.com) <a href="https://eyuelmulugeta.netlify.app/" target="_blank">
-    ![image](https://github.com/user-attachments/assets/942c16c4-c664-4470-aa11-f99f52ff2794)
+    ![image](https://github.com/user-attachments/assets/1bbf730d-b8fc-4c0e-82ca-1b2ce364e6fc)
   </a>
 
 # 💻 Tech Stack:
@@ -17,8 +17,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eyumul&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haile1713&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyumul&theme=dark" alt="GitHub Streak" />
 </p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyumul&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
