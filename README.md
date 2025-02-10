@@ -1,3 +1,7 @@
+<!-- Visitors Count on the Right -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Eyumul&label=Profile%20views&color=11e70d&style=flat" alt="Eyumul" />
+</p>
 # 💫 About Me:
 🔭 I’m currently working on Felega, a tourism platform, and Balesuq, an ecommerce platform.<br>🌱 I’m currently learning machine learning and data science.<br>👯 I’m looking to collaborate on innovative projects that solve societal problems.<br>🤔 I’m looking for help with advancing my skills in AI and machine learning.<br>💬 Ask me about Electrical Engineering, UI/UX design, and front-end development.<br>📫 How to reach me: Connect with me on Telegram @MyTelegramLink<br>⚡ Fun fact: I'm a self-taught programmer and designer who loves to challenge himself and explore new fields.
 
